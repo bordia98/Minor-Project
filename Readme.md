@@ -10,4 +10,4 @@ Minor project for IT 3rd Year Students
  
  - Shaswat Patel
  
- - N Nishant
+ - N Nishanth
