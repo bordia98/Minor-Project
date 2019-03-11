@@ -97,7 +97,7 @@ ENV/
 env.bak/
 venv.bak/
 
-Line_Data/
+# Line_Data/
 
 # Spyder project settings
 .spyderproject
