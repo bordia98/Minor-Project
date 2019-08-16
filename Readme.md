@@ -1,8 +1,9 @@
 Minor project for IT 3rd Year Students
 
-# Compiling the project
-
-- In order to run the line_detection.ipynb notebook first download the data on which it is tested or else replace it with your own data in the code itself and install all the dependencies which are required. Data source link https://drive.google.com/open?id=16WGT-UUQfWk3zKA0K-m1vWMbopBDbGY1 
+# Data Source
+- Traffic light Training Data -  https://drive.google.com/open?id=1kzkcHcclfmCRjhSB9EbWITBCsYjmSi3I
+- Traffic light Testing Data - https://drive.google.com/open?id=15Sg8VUGT3g1awQhj3ArE1C2oT0YSjnFB
+- TensorFlow trained traffic light detection model 60K epoochs - https://drive.google.com/open?id=1-nySXIXlyms84kvKk5NXg63qotcy8B_K
 
 
 ## Project Team:
